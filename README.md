@@ -1,4 +1,4 @@
-# MedAI Trinity - 医疗AI三位一体解决方案
+<img width   宽度="1344" height="657" alt="image" src="https://github.com/user-attachments/assets/da0ac4fb-bb41-4301-bfb1-dbfab3b6d22e" /><img width="1344" height="657" alt="image" src="https://github.com/user-attachments/assets/627d7a8c-6cb4-4021-93ed-b86ac96489c8" /><img width="1357" height="630" alt="image" src="https://github.com/user-attachments/assets/53dd53bd-8655-4613-b06e-44fff0244e38" /><img width   宽度="1302" height="631" alt="image" src="https://github.com/user-attachments/assets/61962b54-7fc2-4f03-a919-92facdc30344" /># MedAI Trinity - 医疗AI三位一体解决方案
 
 **全球首创模块化医疗AI闭环系统 | 60秒生成合规病历**
 
@@ -24,13 +24,15 @@
 
 ### 项目简介
 
-当全球医疗AI还停留在单一模型炫技、系统孤岛难打通、部署成本高不可攀、落地场景悬浮的困境时，**MedAI Trinity** 跳出传统思维桎梏，打造出架构独创、数据贯通、分工明确、全场景适配的医疗AI终极方案。
+当全球医疗AI还停留在单一模型炫技、系统孤岛难打通、部署成本高不可攀、落地场景悬浮的困境时，**MedAI Trinity   MedAI三一** 跳出传统思维桎梏，打造出架构独创、数据贯通、分工明确、全场景适配的医疗AI终极方案。
 
 **核心创新**：模块化小模型 + 专业医疗大模型 + MedClaw数据中枢，三位一体深度协同，实现一分钟生成合规首次病程记录、病历全逻辑质控、DRG分组前置预判、影像智能分析、临床风险预测全功能覆盖。
 
 > 这绝非普通的技术迭代，而是全球人工智能医院临床应用中，里程碑式的跨越式飞跃。
 
 ***
+
+
 
 ### 核心特性
 
@@ -69,27 +71,27 @@
 
 #### 三位一体核心架构
 
-```mermaid
-graph TB
-    subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"]
-        subgraph SmallModel["模块化小模型 (BitNet + 树莓派/小型机)"]
+```mermaid   “‘美人鱼   ```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼
+graph TB   图结核病
+    subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]
+        subgraph SmallModel["模块化小模型 (BitNet + 树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]
             HW["硬件特性<br/>小巧便携 | 科室独立安装 | 无需机房"]
             COST["成本运维<br/>低成本无高算力 | 模块化易维护"]
             FUNC["核心功能<br/>病程生成 | 病历质控 | DRG预判 | 本地数据安全"]
-        end
+        end   结束
         
-        subgraph LargeModel["专业医疗大模型"]
-            PACS["PACS影像智能分析"]
+        subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]
+            PACS["PACS影像智能分析"]   PACS["PACS影像智能分析"]PACS["PACS影像智能分析"]   PACS["PACS影像智能分析"]PACS["PACS影像智能分析"]   PACS["PACS影像智能分析"]
             RISK["临床病情与并发症风险预测"]
             EMR["多源历史病历深度融合"]
             KNOW["高阶医学知识与诊疗辅助支撑"]
-        end
+        end   结束
         
-        subgraph MedClaw["MedClaw 数据中枢"]
-            API["零侵入对接 HIS/LIS/PACS/EMR"]
+        subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]
+            API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]
             DATA["全域诊疗数据自动归集"]
-        end
-    end
+        end   结束
+    end   结束
     
     SmallModel <--> MedClaw
     LargeModel <--> MedClaw
