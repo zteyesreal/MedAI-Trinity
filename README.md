@@ -1,4 +1,4 @@
-医疗AI三位一体解决方案
+# MedAI Trinity - 医疗AI三位一体解决方案
 
 **全球首创模块化医疗AI闭环系统 | 60秒生成合规病历**
 
@@ -24,15 +24,13 @@
 
 ### 项目简介
 
-当全球医疗AI还停留在单一模型炫技、系统孤岛难打通、部署成本高不可攀、落地场景悬浮的困境时，**MedAI Trinity   MedAI三一** 跳出传统思维桎梏，打造出架构独创、数据贯通、分工明确、全场景适配的医疗AI终极方案。
+当全球医疗AI还停留在单一模型炫技、系统孤岛难打通、部署成本高不可攀、落地场景悬浮的困境时，**MedAI Trinity** 跳出传统思维桎梏，打造出架构独创、数据贯通、分工明确、全场景适配的医疗AI终极方案。
 
 **核心创新**：模块化小模型 + 专业医疗大模型 + MedClaw数据中枢，三位一体深度协同，实现一分钟生成合规首次病程记录、病历全逻辑质控、DRG分组前置预判、影像智能分析、临床风险预测全功能覆盖。
 
 > 这绝非普通的技术迭代，而是全球人工智能医院临床应用中，里程碑式的跨越式飞跃。
 
 ***
-
-
 
 ### 核心特性
 
@@ -71,27 +69,27 @@
 
 #### 三位一体核心架构
 
-```mermaid   “‘美人鱼   ```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼   ```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼
-graph TB   图结核病
-    subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统""MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统""MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统""MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统""MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]
-        subgraph SmallModel["模块化小模型 (BitNet + 树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]
-            HW["硬件特性<br/>   /比;   /比;小巧便携 | 科室独立安装 | 无需机房"]
+```mermaid
+graph TB
+    subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"]
+        subgraph SmallModel["模块化小模型 (BitNet + 树莓派/小型机)"]
+            HW["硬件特性<br/>小巧便携 | 科室独立安装 | 无需机房"]
             COST["成本运维<br/>低成本无高算力 | 模块化易维护"]
             FUNC["核心功能<br/>病程生成 | 病历质控 | DRG预判 | 本地数据安全"]
-        end   结束
+        end
         
-        subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]subgraph LargeModel["专业医疗大模型"]
-            PACS["PACS影像智能分析"]   PACS["PACS影像智能分析"]PACS["PACS影像智能分析"]   PACS["PACS影像智能分析"]PACS["PACS影像智能分析"]   PACS["PACS影像智能分析"]
+        subgraph LargeModel["专业医疗大模型"]
+            PACS["PACS影像智能分析"]
             RISK["临床病情与并发症风险预测"]
             EMR["多源历史病历深度融合"]
             KNOW["高阶医学知识与诊疗辅助支撑"]
-        end   结束
+        end
         
-        subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]subgraph MedClaw["MedClaw 数据中枢"]
-            API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]API["零侵入对接 HIS/LIS/PACS/EMR"]
+        subgraph MedClaw["MedClaw 数据中枢"]
+            API["零侵入对接 HIS/LIS/PACS/EMR"]
             DATA["全域诊疗数据自动归集"]
-        end   结束
-    end   结束
+        end
+    end
     
     SmallModel <--> MedClaw
     LargeModel <--> MedClaw
@@ -1093,7 +1091,7 @@ While the global medical AI landscape remains stuck in single-model demonstratio
 
 ### System Architecture
 
-```mermaid
+```mermaid   “‘美人鱼   ```mermaid   “‘美人鱼
 graph TB
     subgraph Trinity["MedAI Trinity System"]
         SM[Modular Small Model<br/>BitNet + Raspberry Pi]
@@ -1136,65 +1134,65 @@ graph TB
 
 #### Quick Install
 
-```bash
+```bash   ”“bash   “bash”;“bash```bash   ”“bash   “bash”;“bash
 # Clone repository
-git clone https://github.com/your-org/medai-trinity.git
+git clone https://github.com/your-org/medai-trinity.gitGit克隆https://github.com/your-org/medai-trinity.git
 cd medai-trinity
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txtPIP install -r requirements.txtPIP安装-r要求。txtPIP install -r requirements.txt
 
 # Configure MedClaw
-cp config/medclaw.yaml.example config/medclaw.yaml
+cp config/medclaw.yaml.example config/medclaw.yamlcp配置/ medclaw.yaml。示例配置/ medclaw.yaml
 
-# Start service
-python main.py --mode production
+# Start service   #启动服务
+python main.py --mode productionPython main.py——模式生产
 ```
 
 ***
 
-### Quick Start
+### Quick Start   ###快速入门
 
-```python
-from medai_trinity import MedAITrinity
+```python   ”“python   ```python   ”“python
+from medai_trinity import MedAITrinity从medai_trinity导入medai_trinity
 
 # Initialize system
-system = MedAITrinity(config_path="config/medclaw.yaml")
+system = MedAITrinity(config_path="config/medclaw.yaml")system = medaitrity （config_path="config/medclaw.yaml"）
 
 # Connect to hospital systems
 system.connect_systems()
 
 # Generate medical record
-record = system.generate_medical_record(patient_id="P001")
+record = system.generate_medical_record(patient_id="P001")record = system.generate_medical_record（patient_id="P001"）
 
 # Quality control
-qc_result = system.quality_check(record)
+qc_result = system.quality_check(record)Qc_result = system.quality_check（记录）
 
 # DRG prediction
-drg_result = system.drg_prediction(record)
+drg_result = system.drg_prediction(record)Drg_result = system.drg_prediction（记录）
 ```
 
 ***
 
-### Contributing
+### Contributing   # # #的贡献
 
 We welcome all contributions! Please see our [Contributing Guidelines](#贡献指南) for details.
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Submit a Pull Request
+1. Fork the repository   1. Fork存储库
+2. Create a feature branch2. 创建一个特性分支
+3. Commit your changes   3. 提交更改
+4. Push to the branch   4. 推到分支
+5. Submit a Pull Request   5. 提交拉取请求
 
 ***
 
-### License
+### License   # # #许可证
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ***
 
-### Contact
+### Contact   # # #联系
 
 **MedAI Trinity Team**
 
@@ -1204,7 +1202,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ***
 
-<div align="center">
+<div align="center">   <div align="center">
 
 **⭐ If this project helps you, please give us a Star! ⭐**
 
