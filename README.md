@@ -1,4 +1,4 @@
-<img width   宽度="1382" height="644" alt="image" src="https://github.com/user-attachments/assets/77f5c6f1-3eb0-4b3a-8477-89755d3ecbc2" />医疗AI三位一体解决方案<img width   宽度="1382" height="644" alt="image" src="https://github.com/user-attachments/assets/77f5c6f1-3eb0-4b3a-8477-89755d3ecbc2" />医疗AI三位一体解决方案
+医疗AI三位一体解决方案
 
 **全球首创模块化医疗AI闭环系统 | 60秒生成合规病历**
 
@@ -21,7 +21,6 @@
 - [联系方式](#联系方式)
 
 ***
-![Uploading image.png…   上传image.png…Uploading image.png…   上传image.png…]()
 
 ### 项目简介
 
