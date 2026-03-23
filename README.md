@@ -1,4 +1,4 @@
-<img width   宽度="1344" height="657" alt="image" src="https://github.com/user-attachments/assets/627d7a8c-6cb4-4021-93ed-b86ac96489c8" /><img width   宽度="1357" height="630" alt="image" src="https://github.com/user-attachments/assets/53dd53bd-8655-4613-b06e-44fff0244e38" /><img width   宽度="1302" height="631" alt="image" src="https://github.com/user-attachments/assets/61962b54-7fc2-4f03-a919-92facdc30344" /># MedAI Trinity - 医疗AI三位一体解决方案<img width   宽度="1344" height="657" alt="image" src="https://github.com/user-attachments/assets/da0ac4fb-bb41-4301-bfb1-dbfab3b6d22e" /><img width   宽度="1344" height="657" alt="image" src="https://github.com/user-attachments/assets/627d7a8c-6cb4-4021-93ed-b86ac96489c8" /><img width   宽度="1357" height="630" alt="image" src="https://github.com/user-attachments/assets/53dd53bd-8655-4613-b06e-44fff0244e38" /><img width   宽度="1302" height="631" alt="image" src="https://github.com/user-attachments/assets/61962b54-7fc2-4f03-a919-92facdc30344" /># MedAI Trinity - 医疗AI三位一体解决方案
+<img width   宽度="1382" height="644" alt="image" src="https://github.com/user-attachments/assets/77f5c6f1-3eb0-4b3a-8477-89755d3ecbc2" />医疗AI三位一体解决方案<img width   宽度="1382" height="644" alt="image" src="https://github.com/user-attachments/assets/77f5c6f1-3eb0-4b3a-8477-89755d3ecbc2" />医疗AI三位一体解决方案
 
 **全球首创模块化医疗AI闭环系统 | 60秒生成合规病历**
 
@@ -21,6 +21,7 @@
 - [联系方式](#联系方式)
 
 ***
+![Uploading image.png…   上传image.png…Uploading image.png…   上传image.png…]()
 
 ### 项目简介
 
@@ -71,11 +72,11 @@
 
 #### 三位一体核心架构
 
-```mermaid   “‘美人鱼   ```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼
+```mermaid   “‘美人鱼   ```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼   ```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼```mermaid   “‘美人鱼      mermaid   “‘美人鱼```mermaid   “‘美人鱼
 graph TB   图结核病
-    subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]
-        subgraph SmallModel["模块化小模型 (BitNet + 树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]
-            HW["硬件特性<br/>小巧便携 | 科室独立安装 | 无需机房"]
+    subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统""MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统""MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统""MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]subgraph MedAI_Trinity["MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统""MedAI Trinity 三位一体闭环系统"   "MedAI Trinity 三位一体闭环系统"]
+        subgraph SmallModel["模块化小模型 (BitNet + 树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]subgraph SmallModel["模块化小模型 (BitNet   树莓派/小型机)"]
+            HW["硬件特性<br/>   /比;   /比;小巧便携 | 科室独立安装 | 无需机房"]
             COST["成本运维<br/>低成本无高算力 | 模块化易维护"]
             FUNC["核心功能<br/>病程生成 | 病历质控 | DRG预判 | 本地数据安全"]
         end   结束
